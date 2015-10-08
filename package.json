@@ -1,0 +1,24 @@
+{
+  "name": "heicx.github.io",
+  "version": "1.0.1",
+  "description": "heicx_sudo's blog",
+  "main": "index.js",
+  "dependencies": {
+    "hexo": "~3.1.1",
+    "hexo-cli": "~0.1.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heicx/heicx.github.io"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "heicx_sudo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heicx/heicx.github.io/issues"
+  },
+  "homepage": "https://github.com/heicx/heicx.github.io"
+}
