@@ -67,4 +67,4 @@ theme: yilia
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:heicx/heicx.github.io.git
+  repo: https://github.com/heicx/heicx.github.io.git
